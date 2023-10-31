@@ -1,5 +1,6 @@
 # SlaBins
 This repository hosts the original implementation of ICCV 2023 paper "SlaBins: Fisheye Depth Estimation using Slanted Bins on Road Environments".
+
 [Paper link](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_SlaBins_Fisheye_Depth_Estimation_using_Slanted_Bins_on_Road_Environments_ICCV_2023_paper.pdf) [Project page](https://syniez.github.io/SlaBins/)
 
 
