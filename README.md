@@ -7,8 +7,8 @@ This is the official repository of ICCV 2023 paper "SlaBins: Fisheye Depth Estim
 <p align="center">
   <img src="imgs/SlaBins.png" alt="example input output" width="1000" />
 </p>
-To train our model, we pre-made camera lookup tables about SynWoodScape and KITTI-360 dataset using same code in [OmniDet](https://github.com/valeoai/WoodScape/tree/master/omnidet).
-We provide our LUTs and the data preprocessing codes.
+To train our model, we pre-made camera lookup tables about SynWoodScape and KITTI-360 dataset using same code in [OmniDet] (https://arxiv.org/pdf/2102.07448.pdf).
+We will provide our LUTs and the data preprocessing codes.
 Unfortunately, model codes are not available because the work is corporate with company.
 
 
