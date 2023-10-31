@@ -4,7 +4,9 @@ This is the official repository of ICCV 2023 paper "SlaBins: Fisheye Depth Estim
 
 
 ## Methodology
-asd
+<p align="center">
+  <img src="imgs/SlaBins.png" alt="example input output" width="1000" />
+</p>
 
 ## Datasets
 We trained and evaluated our method on two fisheye datasets [SynWoodScape](https://arxiv.org/abs/2203.05056), and [KITTI-360](https://github.com/autonomousvision/kitti360Scripts).
